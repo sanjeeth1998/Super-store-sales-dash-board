@@ -1,0 +1,72 @@
+🔧 Tools & Technologies:
+Power BI – for interactive dashboards and data visualization
+
+Microsoft Excel / CSV – for data preparation
+
+Data Source – Superstore Sales dataset (5901 records)
+
+📁 Project Overview:
+Developed a comprehensive Sales Dashboard using Power BI to visualize and analyze performance metrics for a retail superstore. The dashboard provides insights into sales trends, profitability, shipping modes, customer segments, payment preferences, and regional distribution.
+
+📌 Key Features of the Dashboard:
+📌 KPIs:
+Total Orders: 22K+
+
+Total Sales: $1.6M
+
+Total Profit: $175K
+
+Average Shipping Days: 4 Days
+
+📈 Time Series Analysis:
+Sales & Profit Trends by Month to identify seasonal performance and growth patterns.
+
+🌍 Regional Insights:
+Sales by Region (West leads with 33%)
+
+Profit & Sales by State plotted on a US map
+
+Region Filter (Central, East, South, West)
+
+🛒 Category & Segment Analysis:
+Sales by Segment: Consumer (48%), Corporate (33%), Home Office (19%)
+
+Top Categories: Office Supplies, Technology, Furniture
+
+Sub-Category Leaders: Phones, Chairs, Binders
+
+🚚 Shipping Insights:
+Sales by Ship Mode: Standard Class is most used (0.91M)
+
+Includes Second Class, First Class, Same Day
+
+💳 Payment Mode:
+COD: 43%
+
+Online: 35%
+
+Cards: 22%
+
+📂 Dataset Description:
+Columns: 23
+
+Key Fields: Order Date, Ship Mode, Segment, Category, Sales, Profit, State, Region, Payment Mode
+
+Cleaned and structured for time-based, categorical, and geographical analysis
+
+✅ Project Objectives:
+Identify key trends in sales and profitability
+
+Discover best-performing regions and product categories
+
+Optimize shipping methods and time
+
+Understand customer preferences across segments and payment modes
+
+📌 Outcomes:
+Created an interactive, filterable dashboard for dynamic exploration
+
+Improved decision-making support with clear data narratives
+
+Enabled business stakeholders to identify improvement areas in sales and logistics
+
